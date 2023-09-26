@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Michelle 👋
+
+Welcome to my profile!
+- 🔭 I’m currently working as a Software Engineer Intern
+- 🌱 I’m currently learning Kubernetes, Next.js, NestJS, MongoDB, and GraphQL
+- 😄 I like to read on my Kindle and play video games in my free time
+
+Thank you for visiting, and I'd love to [connect](http://www.linkedin.com/in/michelllle-liu)!
 
 <!--
 **michelllle-liu/michelllle-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
