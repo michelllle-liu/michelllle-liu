@@ -1,8 +1,8 @@
 ### Hi, I'm Michelle 👋
 
 Welcome to my profile!
-- 🔭 I’m currently working as a Software Engineer Intern
-- 🌱 I’m currently learning Kubernetes, Next.js, NestJS, MongoDB, and GraphQL
+- 🔭 I’m currently working as a Software Engineer Intern at the Walt Disney Company
+- 🌱 I’m currently learning Angular and Node.js
 - 😄 I like to read on my Kindle and play video games in my free time
 
 Thank you for visiting, and I'd love to [connect](http://www.linkedin.com/in/michelllle-liu)!
